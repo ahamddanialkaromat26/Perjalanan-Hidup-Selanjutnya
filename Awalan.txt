@@ -1,4 +1,5 @@
 Perjalanan
 - Perubahan diri sendiri
-- Melakukan perbaikan diri
+- Melakukan 
 - text ini lanjutan (Edit 1)
+- hapus dan tambah
