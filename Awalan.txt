@@ -3,3 +3,4 @@ Perjalanan
 - Melakukan 
 - text ini lanjutan (Edit 1)
 - hapus dan tambah
+- Penambahan Anggota
